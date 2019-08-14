@@ -174,7 +174,7 @@ html {
   <tr>
     <td>Ahmet Mentes</td>
     <td>PhD (2009-2013)</td>
-    <td>Postdoctoral Fellow, University of Pennsylvania</td>
+    <td>Computational Biophysicist at Black Diamond Therapeutics</td>
   </tr>
   <tr>
     <td>Maryna Taranova</td>
