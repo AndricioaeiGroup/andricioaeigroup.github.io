@@ -83,23 +83,23 @@ P. P. Jose and I. Andricioaei, "[Similarities between protein folding and granul
 
 ### Prior to 2012
 
-A. Boughton, K. Nguyen, I. Andricioaei* and Z. Chen*, Interfacial Orientation and Secondary Structure Change in Tachyplesin I: Molecular Dynamics and Sum Frequency Generation Spectroscopy Studies, Langmuir 27, 14343-14351 (2011). 
+A. Boughton, K. Nguyen, I. Andricioaei* and Z. Chen*, "[Interfacial Orientation and Secondary Structure Change in Tachyplesin I: Molecular Dynamics and Sum Frequency Generation Spectroscopy Studies](https://pubs.acs.org/doi/10.1021/la203192c)", Langmuir 27, 14343-14351 (2011). 
 
-T. D. Lillian, M. Taranova, J. Wereszczynski, I. Andricioaei*, and N. C. Perkins*. “A multiscale dynamic model of DNA supercoil relaxation by topoisomerase IB,” Biophys. J., 100, 2016–2023 (2011). 
+T. D. Lillian, M. Taranova, J. Wereszczynski, I. Andricioaei*, and N. C. Perkins*. “[A multiscale dynamic model of DNA supercoil relaxation by topoisomerase IB](https://www.sciencedirect.com/science/article/pii/S0006349511003122?via%3Dihub),” Biophys. J., 100, 2016–2023 (2011). 
 
-A.C. Stelzer, A.T. Frank, J.D. Kratz, M.D. Swanson, M.J. Gonzalez-Hernandez, J. Lee, I. Andricioaei, D.M. Markovitz and H.M. Al-Hashimi, "Discovery of selective bioactive small molecules by targeting an RNA dynamic ensemble," Nature Chem. Biol. 7, 553–559 (2011).
+A.C. Stelzer, A.T. Frank, J.D. Kratz, M.D. Swanson, M.J. Gonzalez-Hernandez, J. Lee, I. Andricioaei, D.M. Markovitz and H.M. Al-Hashimi, "[Discovery of selective bioactive small molecules by targeting an RNA dynamic ensemble](https://www.nature.com/articles/nchembio.596)," Nature Chem. Biol. 7, 553–559 (2011).
 
-E. Nikolova, E. Kim, A. Wise, P. O’Brien, I. Andricioaei and H.M. Al-Hashimi, "Transient Hoogsteen Base-pairs in Canonical Duplex DNA," Nature 470, 498–502 (2011).
+E. Nikolova, E. Kim, A. Wise, P. O’Brien, I. Andricioaei and H.M. Al-Hashimi, "[Transient Hoogsteen Base-pairs in Canonical Duplex DNA](https://www.nature.com/articles/nature09775)," Nature 470, 498–502 (2011).
 
-A.T. Frank, I. Andricioaei, "A Comparative Study on the Ability of Two Implicit Solvent Lipid Models to Predict Transmembrane Helix Tilt Angles," J. Membrane Biol. 239, 57-62 (2011).
+A.T. Frank, I. Andricioaei, "[A Comparative Study on the Ability of Two Implicit Solvent Lipid Models to Predict Transmembrane Helix Tilt Angles](https://link.springer.com/article/10.1007%2Fs00232-010-9325-7)," J. Membrane Biol. 239, 57-62 (2011).
 
-A.P. Boughton, I. Andricioaei and Z. Chen, "Surface Orientation of Magainin 2: Molecular Dynamics Simulation and Sum Frequency Generation Vibrational Spectroscopic Studies," Langmuir, 26, 16031-16036 (2010).
+A.P. Boughton, I. Andricioaei and Z. Chen, "[Surface Orientation of Magainin 2: Molecular Dynamics Simulation and Sum Frequency Generation Vibrational Spectroscopic Studies](https://pubs.acs.org/doi/10.1021/la1024394)," Langmuir, 26, 16031-16036 (2010).
 
-J. Wereszczynski and I. Andricioaei, "Free Energy Calculations Reveal Rotating-Ratchet Mechanism for DNA Supercoil Relaxation by Topoisomerase IB and its Inhibition," Biophys. J. 99, 869–878 (2010).
+J. Wereszczynski and I. Andricioaei, "[Free Energy Calculations Reveal Rotating-Ratchet Mechanism for DNA Supercoil Relaxation by Topoisomerase IB and its Inhibition](https://www.sciencedirect.com/science/article/pii/S0006349510006612?via%3Dihub)," Biophys. J. 99, 869–878 (2010).
 
-J. Wereszczynski and I. Andricioaei, "Conformational and Solvent Entropy Contributions to the Thermal Response of Nucleic Acid-Based Nanothermometers," J. Phys. Chem. B 114, 2076-2082 (2010).
+J. Wereszczynski and I. Andricioaei, "[Conformational and Solvent Entropy Contributions to the Thermal Response of Nucleic Acid-Based Nanothermometers](https://pubs.acs.org/doi/full/10.1021/jp911681n)," J. Phys. Chem. B 114, 2076-2082 (2010).
 
-M. Mills, B. Orr, M.M. Banaszak Holl and I. Andricioaei, "Microscopic Basis for the Mesoscopic Extensibility of Dendrimer-Compacted DNA," Biophys. J. 98, 834-842 (2010).
+M. Mills, B. Orr, M.M. Banaszak Holl and I. Andricioaei, "[Microscopic Basis for the Mesoscopic Extensibility of Dendrimer-Compacted DNA](https://www.sciencedirect.com/science/article/pii/S0006349509017482?via%3Dihub)," Biophys. J. 98, 834-842 (2010).
 
 C. Musselman, Q. Zhang, H.M. Al-Hashimi and I. Andricioaei, “Referencing strategy for the direct comparison of nuclear magnetic resonance and molecular dynamics motional parameters in RNA,” J. Phys. Chem. B 114, 929-939 (2010).
 
