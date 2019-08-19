@@ -67,19 +67,19 @@ D. Jeong and I. Andricioaei, “[Reconstructing equilibrium entropy and enthalpy
 
 N. K. Preketes, J. D. Biggs, H. Ren, I. Andricioaei and S. Mukamel, "[Simulations of two-dimensional infrared and stimulated resonance Raman spectra of photoactive yellow protein](http://dx.doi.org/10.1016/j.chemphys.2012.09.002)," Chemical Physics, 422, 63-72 (2013). 
 
-A. D. Hirsh, M. Taranova, T. A. Lionberger, T. D. Lillian, I. Andricioaei* and N. Perkins*, “[Structural Ensemble and Dynamics of Toroidal-like DNA Shapes in Bacteriophage Phi29 Exit Cavity],” Biophysical Journal 104, 2058-2067 (2013) 
+A. D. Hirsh, M. Taranova, T. A. Lionberger, T. D. Lillian, I. Andricioaei* and N. Perkins*, “[Structural Ensemble and Dynamics of Toroidal-like DNA Shapes in Bacteriophage Phi29 Exit Cavity](https://www.sciencedirect.com/science/article/pii/S0006349513003718?via%3Dihub),” Biophysical Journal 104, 2058-2067 (2013) 
 
-Loïc Salmon, Gavin Bascom, Ioan Andricioaei, and Hashim M. Al-Hashimi, "A General Method for Constructing Atomic-Resolution RNA Ensembles using NMR Residual Dipolar Couplings: The Basis for Interhelical Motions Revealed," Journal of the American Chemical Society 135, 5457-5466 (2013) 
+Loïc Salmon, Gavin Bascom, Ioan Andricioaei, and Hashim M. Al-Hashimi, "[A General Method for Constructing Atomic-Resolution RNA Ensembles using NMR Residual Dipolar Couplings: The Basis for Interhelical Motions Revealed](https://pubs.acs.org/doi/abs/10.1021/ja400920w)," Journal of the American Chemical Society 135, 5457-5466 (2013) 
 
-A. T. Frank and S. Horowitz and I. Andricioaei* and H.M. Al-Hashimi*, “Utility of 1H NMR Chemical Shifts in Determining RNA Structure and Dynamics,” Journal of Physical Chemistry B, 117, 2045-2052 (2013). 
+A. T. Frank and S. Horowitz and I. Andricioaei* and H.M. Al-Hashimi*, “[Utility of 1H NMR Chemical Shifts in Determining RNA Structure and Dynamics](https://pubs.acs.org/doi/abs/10.1021/jp310863c),” Journal of Physical Chemistry B, 117, 2045-2052 (2013). 
 
-M. Mills, B. Orr, M.M. Banaszak Holl and I. Andricioaei, “Attractive hydration forces in DNA-dendrimer Interactions at the nanometer scale,” J. Phys. Chem. B, 117, 973-981 (2013). 
+M. Mills, B. Orr, M.M. Banaszak Holl and I. Andricioaei, “[Attractive hydration forces in DNA-dendrimer Interactions at the nanometer scale](https://pubs.acs.org/doi/abs/10.1021/jp309616t),” J. Phys. Chem. B, 117, 973-981 (2013). 
 
 ### 2012 
 
-E. N. Nikolova, G. Bascom, I. Andricioaei and H. M. Al-Hashimi, “Probing sequence-specific DNA flexibility in A-tracts and pyrimidine-purine steps by NMR 13C relaxation and MD simulations,” Biochemistry 51, 8654 (2012). 
+E. N. Nikolova, G. Bascom, I. Andricioaei and H. M. Al-Hashimi, “[Probing sequence-specific DNA flexibility in A-tracts and pyrimidine-purine steps by NMR 13C relaxation and MD simulations](https://pubs.acs.org/doi/abs/10.1021/bi3009517),” Biochemistry 51, 8654 (2012). 
 
-P. P. Jose and I. Andricioaei, Similarities between protein folding and granular jamming, Nature Communications 3, 1161 (2012).
+P. P. Jose and I. Andricioaei, "[Similarities between protein folding and granular jamming](https://www.nature.com/articles/ncomms2177)," Nature Communications 3, 1161 (2012).
 
 ### Prior to 2012
 
