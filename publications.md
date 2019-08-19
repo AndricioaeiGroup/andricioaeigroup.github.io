@@ -101,17 +101,17 @@ J. Wereszczynski and I. Andricioaei, "[Conformational and Solvent Entropy Contri
 
 M. Mills, B. Orr, M.M. Banaszak Holl and I. Andricioaei, "[Microscopic Basis for the Mesoscopic Extensibility of Dendrimer-Compacted DNA](https://www.sciencedirect.com/science/article/pii/S0006349509017482?via%3Dihub)," Biophys. J. 98, 834-842 (2010).
 
-C. Musselman, Q. Zhang, H.M. Al-Hashimi and I. Andricioaei, “Referencing strategy for the direct comparison of nuclear magnetic resonance and molecular dynamics motional parameters in RNA,” J. Phys. Chem. B 114, 929-939 (2010).
+C. Musselman, Q. Zhang, H.M. Al-Hashimi and I. Andricioaei, “[Referencing strategy for the direct comparison of nuclear magnetic resonance and molecular dynamics motional parameters in RNA](https://pubs.acs.org/doi/10.1021/jp905286h),” J. Phys. Chem. B 114, 929-939 (2010).
 
-A.C. Stelzer, A.T. Frank, M. Bailor, H.M. Al-Hashimi and I. Andricioaei, “Constructing Atomic-Resolution RNA Structural Ensembles Using MD and Motionally Decoupled NMR RDCs,” Methods 49, 167-173 (2009).
+A.C. Stelzer, A.T. Frank, M. Bailor, H.M. Al-Hashimi and I. Andricioaei, “[Constructing Atomic-Resolution RNA Structural Ensembles Using MD and Motionally Decoupled NMR RDCs](https://www.sciencedirect.com/science/article/pii/S1046202309002011),” Methods 49, 167-173 (2009).
 
-A.T. Frank, A.C. Stelzer, H.M. Al-Hashimi and I. Andricioaei, “Constructing RNA dynamical ensembles by combining MD and motionally decoupled NMR RDCs: New insights into RNA dynamics and adaptive ligand recognition,” Nucleic Acids Res. 37, 3670-3679 (2009).
+A.T. Frank, A.C. Stelzer, H.M. Al-Hashimi and I. Andricioaei, “[Constructing RNA dynamical ensembles by combining MD and motionally decoupled NMR RDCs: New insights into RNA dynamics and adaptive ligand recognition](https://academic.oup.com/nar/article/37/11/3670/1081050),” Nucleic Acids Res. 37, 3670-3679 (2009).
 
-J. Nummela and I. Andricioaei, “Energy landscape for DNA rotation and sliding through a phage portal,” Biophys.J. (Letter) 96, L29-L31 (2009).
+J. Nummela and I. Andricioaei, “[Energy landscape for DNA rotation and sliding through a phage portal](https://www.cell.com/biophysj/references/S0006-3495(09)00008-3),” Biophys.J. (Letter) 96, L29-L31 (2009).
 
-M. Mills and I. Andricioaei, “An experimentally guided umbrella sampling protocol for biomolecules,” J. Chem. Phys. 129,114101 (2008).
+M. Mills and I. Andricioaei, “[An experimentally guided umbrella sampling protocol for biomolecules](https://aip.scitation.org/doi/10.1063/1.2976440),” J. Chem. Phys. 129,114101 (2008).
 
-E. Dethoff, A. Hansen, C. Musselman, E. Watt, I. Andricioaei, and H.M. Al-Hashimi, “Characterizing Complex Dynamics in the TAR Apical Loop and Motional Correlations with the Bulge by NMR, MD and Mutagenesis,” Biophys. J. 95, 3906-3915 (2008).
+E. Dethoff, A. Hansen, C. Musselman, E. Watt, I. Andricioaei, and H.M. Al-Hashimi, “[Characterizing Complex Dynamics in the TAR Apical Loop and Motional Correlations with the Bulge by NMR, MD and Mutagenesis](https://www.sciencedirect.com/science/article/pii/S0006349508785291),” Biophys. J. 95, 3906-3915 (2008).
 
 C.V. Kelly, P. R. Leroueil, E.K. Nett, J. M. Wereszczynski, J.R. Baker, B. G. Orr, M.M. Banaszak Holl and I. Andricioaei, "Poly(amidoamine) Dendrimers on Lipid Bilayers I: Free Energy and Conformation of Binding," J. Phys. Chem. B 112, 9337-9345 (2008).
 
