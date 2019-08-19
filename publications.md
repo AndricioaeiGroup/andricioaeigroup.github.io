@@ -65,7 +65,7 @@ A. D. Hirsh, T. D. Lillian, T. A. Lionberger, M. Taranova, I. Andricioaei, N. C.
 
 D. Jeong and I. Andricioaei, “[Reconstructing equilibrium entropy and enthalpy profiles from non-equilibrium pulling](http://dx.doi.org/10.1063/1.4795236),” J. Chem. Phys. 138, 114110 (2013). 
 
-N. K. Preketes, J. D. Biggs, H. Ren, I. Andricioaei and S. Mukamel, "[Simulations of two-dimensional infrared and stimulated resonance Raman spectra of photoactive yellow protein],"(http://dx.doi.org/10.1016/j.chemphys.2012.09.002) Chemical Physics, 422, 63-72 (2013). 
+N. K. Preketes, J. D. Biggs, H. Ren, I. Andricioaei and S. Mukamel, "[Simulations of two-dimensional infrared and stimulated resonance Raman spectra of photoactive yellow protein](http://dx.doi.org/10.1016/j.chemphys.2012.09.002)," Chemical Physics, 422, 63-72 (2013). 
 
 A. D. Hirsh, M. Taranova, T. A. Lionberger, T. D. Lillian, I. Andricioaei* and N. Perkins*, “[Structural Ensemble and Dynamics of Toroidal-like DNA Shapes in Bacteriophage Phi29 Exit Cavity],” Biophysical Journal 104, 2058-2067 (2013) 
 
