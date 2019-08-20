@@ -125,15 +125,15 @@ J. Nummela and I. Andricioaei, “[Exact low-force kinetics from high-force sing
 
 C. Musselman, H.M. Al-Hashimi and I. Andricioaei, “[iRED analysis of TAR RNA reveals motional coupling, long-range correlations, and a dynamical hinge](https://www.sciencedirect.com/science/article/pii/S000634950771295X?via%3Dihub)," Biophys. J. 93, 411-422 (2007) pdf.
 
-D.M. Jordan, M. Mills, I. Andricioaei, K. Palmo and E.R.P. Zuiderweg, “Parameterization of peptide 13C carbonyl chemical shielding anisotropy in molecular dynamics simulations: Effects of dynamic local distortions on 13C carbonyl NMR relaxation,” Chem. Phys. Chem. 8, 1375-1385 (2007).
+D.M. Jordan, M. Mills, I. Andricioaei, K. Palmo and E.R.P. Zuiderweg, “[Parameterization of peptide 13C carbonyl chemical shielding anisotropy in molecular dynamics simulations: Effects of dynamic local distortions on 13C carbonyl NMR relaxation](https://onlinelibrary.wiley.com/doi/full/10.1002/cphc.200700003),” Chem. Phys. Chem. 8, 1375-1385 (2007).
 
-I. Andricioaei, “Specialized methods for improving ergodic sampling using molecular dynamics and Monte Carlo simulations” in Free Energy Calculations: Theory and Applications in Chemistry and Biology, pp. 277-322, eds. A. Pohorille and C. Chipot, Springer Series in Chemical Physics, (2007).
+I. Andricioaei, “[Specialized methods for improving ergodic sampling using molecular dynamics and Monte Carlo simulations](https://link.springer.com/chapter/10.1007/978-3-540-38448-9_8)” in Free Energy Calculations: Theory and Applications in Chemistry and Biology, pp. 277-322, eds. A. Pohorille and C. Chipot, Springer Series in Chemical Physics, (2007).
 
-J. Wereszczynski and I. Andricioaei, “On structural transitions, thermodynamic equilibrium and the phase diagram of DNA and RNA duplexes under external tension and torque," Proc. Natl. Acad. Sci. U.S.A. 103, 16200-16205 (2006).
+J. Wereszczynski and I. Andricioaei, “[On structural transitions, thermodynamic equilibrium and the phase diagram of DNA and RNA duplexes under external tension and torque](https://www.pnas.org/content/103/44/16200.long)," Proc. Natl. Acad. Sci. U.S.A. 103, 16200-16205 (2006).
 
-C. Musselman, S. Pitt, K. Gulati, L. Foster, I. Andricioaei and H. Al-Hashimi, “Impact of static and dynamic A-form heterogeneity on the determination of RNA global structural dynamics using NMR residual dipolar couplings” J. Biomol. NMR, 36, 235-249 (2006).
+C. Musselman, S. Pitt, K. Gulati, L. Foster, I. Andricioaei and H. Al-Hashimi, “[Impact of static and dynamic A-form heterogeneity on the determination of RNA global structural dynamics using NMR residual dipolar couplings](https://link.springer.com/article/10.1007/s10858-006-9087-9),” J. Biomol. NMR, 36, 235-249 (2006).
 
-P. Tian and I. Andricioaei, “Size, motion and function of the SecY translocon revealed by molecular dynamics simulations with virtual probes,” Biophys. J., 90, 2718-2730 (2006).
+P. Tian and I. Andricioaei, “[Size, motion and function of the SecY translocon revealed by molecular dynamics simulations with virtual probes](https://www.sciencedirect.com/science/article/pii/S0006349506724559),” Biophys. J., 90, 2718-2730 (2006).
 
 C. Xing and I. Andricioaei, “On the calculation of time-correlation functions by potential scaling,” J. Chem. Phys. 124, 034110 (2006).
 
