@@ -113,17 +113,17 @@ M. Mills and I. Andricioaei, “[An experimentally guided umbrella sampling prot
 
 E. Dethoff, A. Hansen, C. Musselman, E. Watt, I. Andricioaei, and H.M. Al-Hashimi, “[Characterizing Complex Dynamics in the TAR Apical Loop and Motional Correlations with the Bulge by NMR, MD and Mutagenesis](https://www.sciencedirect.com/science/article/pii/S0006349508785291),” Biophys. J. 95, 3906-3915 (2008).
 
-C.V. Kelly, P. R. Leroueil, E.K. Nett, J. M. Wereszczynski, J.R. Baker, B. G. Orr, M.M. Banaszak Holl and I. Andricioaei, "Poly(amidoamine) Dendrimers on Lipid Bilayers I: Free Energy and Conformation of Binding," J. Phys. Chem. B 112, 9337-9345 (2008).
+C.V. Kelly, P. R. Leroueil, E.K. Nett, J. M. Wereszczynski, J.R. Baker, B. G. Orr, M.M. Banaszak Holl and I. Andricioaei, "[Poly(amidoamine) Dendrimers on Lipid Bilayers I: Free Energy and Conformation of Binding](https://pubs.acs.org/doi/abs/10.1021/jp801377a)," J. Phys. Chem. B 112, 9337-9345 (2008).
 
-C.V. Kelly, P. R. Leroueil, B. G. Orr, M.M. Banaszak Holl and I. Andricioaei, "Poly(amidoamine) Dendrimers on Lipid Bilayers II: Effects of Bilayer Phase and Dendrimer Termination," J. Phys. Chem. B 112, 9346-9353 (2008).
+C.V. Kelly, P. R. Leroueil, B. G. Orr, M.M. Banaszak Holl and I. Andricioaei, "[Poly(amidoamine) Dendrimers on Lipid Bilayers II: Effects of Bilayer Phase and Dendrimer Termination](https://pubs.acs.org/doi/10.1021/jp8013783)," J. Phys. Chem. B 112, 9346-9353 (2008).
 
-J. Nummela, F. Yassin and I. Andricioaei, “Entropy-energy decomposition from nonequilibrium work trajectories,” J. Chem. Phys. 128, 024104 (2008).
+J. Nummela, F. Yassin and I. Andricioaei, “[Entropy-energy decomposition from nonequilibrium work trajectories](https://aip.scitation.org/doi/full/10.1063/1.2817332),” J. Chem. Phys. 128, 024104 (2008).
 
-J. MacFadyen, J. Wereszczynski and I. Andricioaei, “Directionally negative friction: A method for enhanced sampling of rare events,” J. Chem. Phys. 128, 114112 (2008).
+J. MacFadyen, J. Wereszczynski and I. Andricioaei, “[Directionally negative friction: A method for enhanced sampling of rare events](https://aip.scitation.org/doi/10.1063/1.2841102),” J. Chem. Phys. 128, 114112 (2008).
 
-J. Nummela and I. Andricioaei, “Exact low-force kinetics from high-force single-molecule unfolding events,” Biophys. J. 93, 3373-3381 (2007).
+J. Nummela and I. Andricioaei, “[Exact low-force kinetics from high-force single-molecule unfolding events](https://www.sciencedirect.com/science/article/pii/S0006349507715916?via%3Dihub),” Biophys. J. 93, 3373-3381 (2007).
 
-C. Musselman, H.M. Al-Hashimi and I. Andricioaei, “iRED analysis of TAR RNA reveals motional coupling, long-range correlations, and a dynamical hinge," Biophys. J. 93, 411-422 (2007) pdf.
+C. Musselman, H.M. Al-Hashimi and I. Andricioaei, “[iRED analysis of TAR RNA reveals motional coupling, long-range correlations, and a dynamical hinge](https://www.sciencedirect.com/science/article/pii/S000634950771295X?via%3Dihub)," Biophys. J. 93, 411-422 (2007) pdf.
 
 D.M. Jordan, M. Mills, I. Andricioaei, K. Palmo and E.R.P. Zuiderweg, “Parameterization of peptide 13C carbonyl chemical shielding anisotropy in molecular dynamics simulations: Effects of dynamic local distortions on 13C carbonyl NMR relaxation,” Chem. Phys. Chem. 8, 1375-1385 (2007).
 
