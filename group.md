@@ -159,7 +159,7 @@ html {
   <tr>
     <td>Emel Ficici</td>
     <td>PhD (2010-2015)</td>
-    <td>Postdoctoral Fellow, NIH/NHLBI</td>
+    <td>Research Scientist at Pfizer</td>
   </tr>
   <tr>
     <td>Jason Deckman</td>
