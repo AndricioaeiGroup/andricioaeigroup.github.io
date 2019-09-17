@@ -200,6 +200,11 @@ html {
     <td>PhD (2004-2008)</td>
     <td>Associate Professor of Physics, Illinois Institute of Technology, Chicago</td>
   </tr>
+  <tr>
+    <td><a href="https://profiles.ucdenver.edu/display/224998">Catherine Musselman</a></td>
+    <td>PhD (2004-2007)</td>
+    <td>Associate Professor of Biochemistry, University of Colorado, Anschutz Medical Campus</td>
+  </tr>
 </table> 
 
 </body>
