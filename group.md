@@ -126,6 +126,11 @@ html {
     <th>Current Affiliation</th>
   </tr>
   <tr>
+    <td>Anupam Chatterjee</td>
+    <td>PhD (2014-2019)</td>
+    <td>-</td>
+  </tr>
+  <tr>
     <td>James McSally</td>
     <td>PhD (2014-2019)</td>
     <td>Postdoctoral Fellow, University of Rochester</td>
