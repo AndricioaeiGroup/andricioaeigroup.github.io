@@ -191,6 +191,11 @@ html {
     <td>Assistant Professor of Chemistry, University of Michigan, Ann Arbor</td>
   </tr>
   <tr>
+    <td>Levent Sari</td>
+    <td>Post-Doc (2006-2008)</td>
+    <td>Senior Research Scientist, University of Texas, Southwestern Medical Center</td>
+  </tr>
+  <tr>
     <td>K. Maria Mills</td>
     <td>PhD (2005-2010)<br> Jointly with Mark M. Banaszak Holl</td>
     <td>Postdoctoral Fellow, NHLBI</td>
@@ -202,7 +207,7 @@ html {
   </tr>
   <tr>
     <td><a href="https://profiles.ucdenver.edu/display/224998">Catherine Musselman</a></td>
-    <td>PhD (2004-2007)</td>
+    <td>PhD (2004-2007)<br> Jointly with Hashim M. Al-Hashimi</td>
     <td>Associate Professor of Biochemistry, University of Colorado, Anschutz Medical Campus</td>
   </tr>
 </table> 
