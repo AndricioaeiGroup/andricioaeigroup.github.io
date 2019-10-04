@@ -196,9 +196,9 @@ html {
     <td>Senior Research Scientist, University of Texas, Southwestern Medical Center</td>
   </tr>
   <tr>
-    <td>K. Maria Mills</td>
+    <td><a href="https://physics.missouri.edu/people/mills">K. Maria Mills</td>
     <td>PhD (2005-2010)<br> Jointly with Mark M. Banaszak Holl</td>
-    <td>Postdoctoral Fellow, NHLBI</td>
+    <td>Assistant Professor of Physics, University of Missouri, Columbia</td>
   </tr>
   <tr>
     <td><a href="http://mypages.iit.edu/~jwereszc/">Jeff Wereszczynski</a></td>
