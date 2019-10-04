@@ -110,6 +110,7 @@ html {
         <p><a href="https://www.linkedin.com/in/dhiman-ray-95790baa/">Linkedin</a></p>
         <p><a href="https://scholar.google.com/citations?user=ILWljWoAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
         <p><a href="https://sites.google.com/view/dhiman/home">Personal Website</a></p>
+        <p><a href="https://drive.google.com/open?id=1KB4Tk8J0Hp2eFPdaGGVUYyUmlWkt1mZA">CV</a></p>
       </div>
     </div>
   </div>
