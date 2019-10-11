@@ -68,6 +68,8 @@ html {
 </head>
 <body>
 
+<img src="/img/group.jpg" alt="group" class="center" style="width:100%"> 
+
 <h2>Principal Investigator</h2>
 
 <div class="row">
