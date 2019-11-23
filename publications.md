@@ -3,9 +3,12 @@ layout: page
 title: Publications
 ---
 
-### 2018
 
-A. Chatterjee, A. Maghsoodi, N. Perkins and I. Andricioaei, “Elastic Continuum Stiffness of Contractile Tail Sheaths from Molecular Dynamics Simulations,” Biophys. J. (2018, submitted).
+### 2019
+
+A. Chatterjee, A. Maghsoodi, N. Perkins and I. Andricioaei, “[Elastic Continuum Stiffness of Contractile Tail Sheaths from Molecular Dynamics Simulations](https://aip.scitation.org/doi/full/10.1063/1.5125807)”, J. Chem. Phys. 151, 185103 (2019)
+
+### 2018
 
 G. Grazioli and I. Andricioaei, “[Advancements in milestoning: II Calculating time-correlation functions from milestoning data using stochastic path integrals in milestone space](https://aip.scitation.org/doi/abs/10.1063/1.5037482)”, J. Chem. Phys. 149, 084103 (2018). 
 
