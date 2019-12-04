@@ -6,6 +6,8 @@ title: Publications
 
 ### 2019
 
+A. Maghsoodi, A. Chatterjee,  I. Andricioaei and N. Perkins, "[How the phage T4 injection machinery works including energetics, forces, and dynamic pathway](https://www.pnas.org/content/early/2019/11/22/1909298116.short)", Proc. Nat. Acad. Sci. 201909298 (2019)
+
 A. Chatterjee, A. Maghsoodi, N. Perkins and I. Andricioaei, “[Elastic Continuum Stiffness of Contractile Tail Sheaths from Molecular Dynamics Simulations](https://aip.scitation.org/doi/full/10.1063/1.5125807)”, J. Chem. Phys. 151, 185103 (2019)
 
 ### 2018
