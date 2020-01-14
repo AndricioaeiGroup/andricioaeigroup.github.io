@@ -80,6 +80,7 @@ html {
         <h3>Ioan Andricioaei</h3>
         <p>andricio@uci.edu</p>
         <a href="https://www.faculty.uci.edu/profile.cfm?faculty_id=5491">Profile</a>
+        <a href="https://scholar.google.com/citations?user=EMvy63UAAAAJ&hl=en&oi=ao">Google Scholar</a>
       </div>
     </div>
   </div>
