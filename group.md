@@ -95,6 +95,7 @@ html {
       <div class="container" style="width:100%">
       <img src="/img/Moises.jpg" alt="Moises" style="width:50%"><!--height="300" width="300">-->
         <h3>Moises Romero</h3>
+        <p>(Jointly with Dr. Jin Yu)</p>
         <p>Research Interest: Elastic network models of contractile tails. MD Simulations of biological systems.
         Development of enhanced sampling methods.</p>
         <p>moiseser@uci.edu</p>
@@ -122,6 +123,7 @@ html {
       <div class="container" style="width:100%">
       <img src="/img/Trevor.jpg" alt="Trevor" style="width:50%"><!--height="300" width="300">-->
         <h3>Trevor Gokey</h3>
+        <p>(Jointly with Prof. David Mobley)</p>
         <p>Research Interest: TBD.</p>
         <p>tgokey@uci.edu</p>
         <p><a href="https://www.linkedin.com/in/trevor-gokey-a8b06814/">Linkedin</a></p>
