@@ -117,6 +117,17 @@ html {
       </div>
     </div>
   </div>
+  <div class="column">
+    <div class="card">
+      <div class="container" style="width:100%">
+      <img src="/img/Trevor.jpg" alt="Trevor" style="width:50%"><!--height="300" width="300">-->
+        <h3>Trevor Gokey</h3>
+        <p>Research Interest: TBD.</p>
+        <p>tgokey@uci.edu</p>
+        <p><a href="https://www.linkedin.com/in/trevor-gokey-a8b06814/">Linkedin</a></p>
+      </div>
+    </div>
+  </div>
 </div>
 
 
