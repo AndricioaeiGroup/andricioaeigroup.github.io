@@ -4,6 +4,13 @@ title: Publications
 ---
 <a href="https://scholar.google.com/citations?user=EMvy63UAAAAJ&hl=en&oi=ao">Google Scholar</a>
 
+### 2020
+
+
+D. Ray and I. Andricioaei, "[Weighted Ensemble Milestoning (WEM): A Combined Method For Rare Event Simulations](https://arxiv.org/abs/1912.10650)", arXiv:1912.10650 (2020)
+
+D. Ray and I. Andricioaei, "[Free Energy Landscape and Conformational Kinetics of Hoogsteen Base-Pairing in DNA vs RNA](https://www.biorxiv.org/content/10.1101/2020.01.09.868018v1.abstract)", bioRxiv 868018 (2020) 
+
 ### 2019
 
 A. Maghsoodi, A. Chatterjee,  I. Andricioaei and N. Perkins, "[How the phage T4 injection machinery works including energetics, forces, and dynamic pathway](https://www.pnas.org/content/early/2019/11/22/1909298116.short)", Proc. Nat. Acad. Sci. 201909298 (2019)
