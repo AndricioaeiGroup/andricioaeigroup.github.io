@@ -218,7 +218,7 @@ html {
     <td>Assistant Professor of Physics, University of Missouri, Columbia</td>
   </tr>
   <tr>
-    <td><a href="http://mypages.iit.edu/~jwereszc/">Jeff Wereszczynski</a></td>
+    <td><a href="https://wereszczynskilab.org/">Jeff Wereszczynski</a></td>
     <td>PhD (2004-2008)</td>
     <td>Associate Professor of Physics, Illinois Institute of Technology, Chicago</td>
   </tr>
