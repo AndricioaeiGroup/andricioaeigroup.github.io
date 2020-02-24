@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 ---
-<a href="https://scholar.google.com/citations?user=EMvy63UAAAAJ&hl=en&oi=ao">Google Scholar</a>
+<h3><a href="https://scholar.google.com/citations?user=EMvy63UAAAAJ&hl=en&oi=ao">Google Scholar</a></h3>
 
 ### 2020
 
