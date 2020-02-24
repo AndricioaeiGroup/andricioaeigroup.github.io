@@ -184,7 +184,7 @@ html {
   </tr>
   <tr>
     <td>Nicholas K Preketes</td>
-    <td>PhD (2008-2013)<br> Jointly with Shaul Mukamel</td>
+    <td>PhD (2008-2013)<br> Joint with Shaul Mukamel</td>
     <td>Director, Commercial Strategy & Analytics, Amgen</td>
   </tr>
   <tr>
@@ -214,7 +214,7 @@ html {
   </tr>
   <tr>
     <td><a href="https://physics.missouri.edu/people/mills">K. Maria Mills</a></td>
-    <td>PhD (2005-2010)<br> Jointly with Mark M. Banaszak Holl</td>
+    <td>PhD (2005-2010)<br> Joint with Mark M. Banaszak Holl</td>
     <td>Assistant Professor of Physics, University of Missouri, Columbia</td>
   </tr>
   <tr>
@@ -224,7 +224,7 @@ html {
   </tr>
   <tr>
     <td><a href="https://profiles.ucdenver.edu/display/224998">Catherine Musselman</a></td>
-    <td>PhD (2004-2007)<br> Jointly with Hashim M. Al-Hashimi</td>
+    <td>PhD (2004-2007)<br> Joint with Hashim M. Al-Hashimi</td>
     <td>Associate Professor of Biochemistry, University of Colorado, Anschutz Medical Campus</td>
   </tr>
 </table> 
