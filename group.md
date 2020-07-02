@@ -153,9 +153,9 @@ html {
     <td>Postdoctoral Fellow, University of Rochester</td>
   </tr>
   <tr>
-    <td>Gianmarc Grazioli</td>
+    <td><a href="http://gianmarc.com/">Gianmarc Grazioli</td>
     <td>PhD (2011-2016)</td>
-    <td>Postdoctoral Fellow, University of California Irvine</td>
+    <td>Assistant Professor of Chemistry, San Jose State University</td>
   </tr>
   <tr>
     <td>Emel Ficici</td>
