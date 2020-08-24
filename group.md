@@ -153,7 +153,7 @@ html {
     <td>Postdoctoral Fellow, University of Rochester</td>
   </tr>
   <tr>
-    <td><a href="http://gianmarc.com/">Gianmarc Grazioli</td>
+    <td><a href="http://gianmarc.com/">Gianmarc Grazioli</a></td>
     <td>PhD (2011-2016)</td>
     <td>Assistant Professor of Chemistry, San Jose State University</td>
   </tr>
