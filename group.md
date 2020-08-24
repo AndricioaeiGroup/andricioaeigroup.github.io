@@ -170,7 +170,7 @@ html {
   <tr>
     <td>Gavin Bascom</td>
     <td>PhD (2010-2014)</td>
-    <td>Independent Contractor at Bolt Threads</td>
+    <td>Methodology Scientist at Redesign Science </td>
   </tr>
   <tr>
     <td>Ahmet Mentes</td>
