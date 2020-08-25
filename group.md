@@ -149,7 +149,20 @@ html {
   </div>
 </div>
 
+<h2>Undergraduate Student</h2>
 
+<div class="row">
+  <div class="column">
+    <div class="card">
+       <div class="container" style="width:100%">
+        <h3>Sharon Emily Stone</h3>
+        <p>BS: University of California Irvine (2021) (Chemistry)</p> 
+        <p>Research Interest: Hoogsteen Base-Pairing in DNA</p>
+        <p>sharones@uci.edu</p>
+      </div>
+    </div>
+  </div>
+</div>
 
 <h2>Group Alumni</h2>
 
