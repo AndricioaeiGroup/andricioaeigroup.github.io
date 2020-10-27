@@ -6,10 +6,11 @@ title: Publications
 
 ### 2020
 
+D. Ray, T. Gokey, D. L. Mobley, and I. Andricioaei,"[Kinetics and free energy of ligand dissociation using weighted ensemble milestoning](https://doi.org/10.1063/5.0021953)", J. Chem. Phys. 153, 154117 (2020)
 
-D. Ray and I. Andricioaei, "[Free Energy Landscape and Conformational Kinetics of Hoogsteen Base-Pairing in DNA vs RNA](https://www.biorxiv.org/content/10.1101/2020.01.09.868018v1.abstract)", bioRxiv 868018 (2020) 
+D. Ray and I. Andricioa, and I. Andricioaei, "[Free Energy Landscape and Conformational Kinetics of Hoogsteen Base-Pairing in DNA vs RNA](https://doi.org/10.1016/j.bpj.2020.08.031)", Biophys. J. 119, 1568–1579 (2020) 
 
-D. Ray and I. Andricioaei, "[Weighted ensemble milestoning (WEM): A combined method for rare event simulations](https://aip.scitation.org/doi/10.1063/5.0008028)", J. Chem. Phys. 152, 234114 (2020)
+D. Ray and I. Andricioaei, "[Weighted ensemble milestoning (WEM): A combined approach for rare event simulations](https://aip.scitation.org/doi/10.1063/5.0008028)", J. Chem. Phys. 152, 234114 (2020)
 
 ### 2019
 
