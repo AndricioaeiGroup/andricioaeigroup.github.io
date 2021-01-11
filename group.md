@@ -94,6 +94,7 @@ html {
        <div class="container" style="width:100%">
         <img src="/img/LyLe.jpg" alt="Ly" style="width:50%"><!--height="300" width="300">-->
         <h3>Ly Le</h3>
+        <p>Joint appointment: Associate Professor, School of Biotechnology, International University, Vietnam National University at Ho Chi Minh City, Vietnam</p>
         <p>Post Doc: University of Illinois at Urbana Champaign (2009-2010) (with Prof. Klaus Schulten)</p>
         <p>PhD: University of Utah (2010) (Computational Chemistry)</p> 
         <p>Research Interest: Bioinformatics  and Structure-based approaches in rational design of new vaccine scaffolds and broad spectrum inhibitors.</p>
