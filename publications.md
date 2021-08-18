@@ -4,6 +4,14 @@ title: Publications
 ---
 <h3><a href="https://scholar.google.com/citations?user=EMvy63UAAAAJ&hl=en&oi=ao">Google Scholar</a></h3>
 
+### 2021
+
+D. Ray, R. N. Quijano, and I. Andricioaei, "[Mutations in SARS-CoV-2 Variants Modulate the Microscopic Dynamics of Neutralizing Antibodies](https://doi.org/10.1101/2021.08.13.456317)", bioRxiv (2021)
+
+D. Ray, S. E. Stone, and I. Andricioaei, "Markovian Weighted Ensemble Milestoning (M-WEM): Long-time Kinetics from Short Trajectories](https://doi.org/10.1101/2021.06.26.450057)", bioRxiv (2021)
+
+D. Ray, L. Le, and I. Andricioaei, "[Distant Residues Modulate the Conformational Opening in SARS-CoV-2 Spike Protein](https://doi.org/10.1101/2020.12.07.415596)", bioRxiv (2021)
+
 ### 2020
 
 D. Ray, T. Gokey, D. L. Mobley, and I. Andricioaei,"[Kinetics and free energy of ligand dissociation using weighted ensemble milestoning](https://doi.org/10.1063/5.0021953)", J. Chem. Phys. 153, 154117 (2020)
