@@ -10,7 +10,7 @@ D. Ray, R. N. Quijano, and I. Andricioaei, "[Mutations in SARS-CoV-2 Variants Mo
 
 D. Ray, S. E. Stone, and I. Andricioaei, "[Markovian Weighted Ensemble Milestoning (M-WEM): Long-time Kinetics from Short Trajectories](https://doi.org/10.1101/2021.06.26.450057)", bioRxiv (2021)
 
-D. Ray, L. Le, and I. Andricioaei, "[Distant Residues Modulate the Conformational Opening in SARS-CoV-2 Spike Protein](https://doi.org/10.1101/2020.12.07.415596)", Proc. Nat. Acad. Sci. USA. 118 (43) e2100943118 (2021)
+D. Ray, L. Le, and I. Andricioaei, "[Distant Residues Modulate the Conformational Opening in SARS-CoV-2 Spike Protein](https://doi.org/10.1073/pnas.2100943118)", Proc. Nat. Acad. Sci. USA. 118 (43) e2100943118 (2021)
 
 ### 2020
 
