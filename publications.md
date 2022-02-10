@@ -4,11 +4,15 @@ title: Publications
 ---
 <h3><a href="https://scholar.google.com/citations?user=EMvy63UAAAAJ&hl=en&oi=ao">Google Scholar</a></h3>
 
+### 2022
+
+D. Ray, R. N. Quijano, and I. Andricioaei, "[Point Mutations in SARS-CoV-2 Variants Induce Long-Range Dynamical Perturbations in Neutralizing Antibodies](https://doi.org/10.1101/2021.08.13.456317)", bioRxiv (2022)
+
+D. Ray, S. E. Stone, and I. Andricioaei, "[Markovian Weighted Ensemble Milestoning (M-WEM): Long-time Kinetics from Short Trajectories](https://doi.org/10.1021/acs.jctc.1c00803)", J. Chem. Theory Comput. 18, 1, 79–95 (2022)
+
+S. E. Stone, D. Ray, and I. Andricioaei, "[Studying the Association and Dissociation of Trypsin-Benzamidine Complex Using Enhanced Sampling Molecular Dynamics]", Revue Roumaine de Chimie (Romanian Journal of Chemistry), Just Accepted (2022)
+
 ### 2021
-
-D. Ray, R. N. Quijano, and I. Andricioaei, "[Mutations in SARS-CoV-2 Variants Modulate the Microscopic Dynamics of Neutralizing Antibodies](https://doi.org/10.1101/2021.08.13.456317)", bioRxiv (2021)
-
-D. Ray, S. E. Stone, and I. Andricioaei, "[Markovian Weighted Ensemble Milestoning (M-WEM): Long-time Kinetics from Short Trajectories](https://doi.org/10.1101/2021.06.26.450057)", bioRxiv (2021)
 
 D. Ray, L. Le, and I. Andricioaei, "[Distant Residues Modulate the Conformational Opening in SARS-CoV-2 Spike Protein](https://doi.org/10.1073/pnas.2100943118)", Proc. Nat. Acad. Sci. USA. 118 (43) e2100943118 (2021)
 
