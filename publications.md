@@ -10,7 +10,7 @@ D. Ray, R. N. Quijano, and I. Andricioaei, "[Point Mutations in SARS-CoV-2 Varia
 
 D. Ray, S. E. Stone, and I. Andricioaei, "[Markovian Weighted Ensemble Milestoning (M-WEM): Long-time Kinetics from Short Trajectories](https://doi.org/10.1021/acs.jctc.1c00803)", J. Chem. Theory Comput. 18, 1, 79–95 (2022)
 
-S. E. Stone, D. Ray, and I. Andricioaei, "[Studying the Association and Dissociation of Trypsin-Benzamidine Complex Using Enhanced Sampling Molecular Dynamics]", Revue Roumaine de Chimie (Romanian Journal of Chemistry), Just Accepted (2022)
+S. E. Stone, D. Ray, and I. Andricioaei, "Studying the Association and Dissociation of Trypsin-Benzamidine Complex Using Enhanced Sampling Molecular Dynamics", Revue Roumaine de Chimie (Romanian Journal of Chemistry), Just Accepted (2022)
 
 ### 2021
 
