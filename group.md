@@ -157,7 +157,6 @@ html {
       </div>
     </div>
   </div>
-  <div class="row">
   <div class="column">
     <div class="card">
        <div class="container" style="width:100%">
@@ -168,7 +167,6 @@ html {
       </div>
     </div>
   </div>
-  <div class="row">
   <div class="column">
     <div class="card">
        <div class="container" style="width:100%">
