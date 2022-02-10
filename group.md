@@ -148,6 +148,17 @@ html {
       </div>
     </div>
   </div>
+  <div class="column">
+    <div class="card">
+      <div class="container" style="width:100%">
+      <img src="/img/Praveen.jpeg" alt="Praveen" style="width:50%"><!--height="300" width="300">-->
+        <h3>Praveen Ranganath Prabhakar</h3>
+        <p>Research Interest: TBD.</p>
+        <p>prprabha@uci.edu</p>
+        <p><a href="https://in.linkedin.com/in/praveen-ranganath-561240128">Linkedin</a></p>
+      </div>
+    </div>
+  </div>
 </div>
 
 <h2>Undergraduate Student</h2>
