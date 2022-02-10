@@ -86,23 +86,6 @@ html {
   </div>
 </div>
 
-<h2>Research Scientist</h2>
-
-<div class="row">
-  <div class="column">
-    <div class="card">
-       <div class="container" style="width:100%">
-        <img src="/img/LyLe.jpg" alt="Ly" style="width:50%"><!--height="300" width="300">-->
-        <h3>Ly Le</h3>
-        <p>Joint appointment: Associate Professor, School of Biotechnology, International University, Vietnam National University at Ho Chi Minh City, Vietnam</p>
-        <p>Post Doc: University of Illinois at Urbana Champaign (2009-2010) (with Prof. Klaus Schulten)</p>
-        <p>PhD: University of Utah (2010) (Computational Chemistry)</p> 
-        <p>Research Interest: Bioinformatics  and Structure-based approaches in rational design of new vaccine scaffolds and broad spectrum inhibitors.</p>
-        <p><a href="https://scholar.google.com/citations?hl=en&user=kYhcPQ8AAAAJ&view_op=list_works">Google Scholar</a></p>
-      </div>
-    </div>
-  </div>
-</div>
 
 <h2>Graduate Students</h2>
 
@@ -174,6 +157,28 @@ html {
       </div>
     </div>
   </div>
+  <div class="row">
+  <div class="column">
+    <div class="card">
+       <div class="container" style="width:100%">
+        <h3>Riley Nicolas Quijano</h3>
+        <p>BS: University of California Irvine (2022) (Chemistry)</p> 
+        <p>Research Interest: Simulation of SARS-CoV-2 proteins</p>
+        <p>rnquijan@uci.edu</p>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+  <div class="column">
+    <div class="card">
+       <div class="container" style="width:100%">
+        <h3>Rodrigo Andre Lozano</h3>
+        <p>BS: University of California Irvine (2023) (Chemistry)</p> 
+        <p>Research Interest: Protein-Ligand simulations</p>
+        <p>ralozano@uci.edu</p>
+      </div>
+    </div>
+  </div>
 </div>
 
 <h2>Group Alumni</h2>
@@ -183,6 +188,11 @@ html {
     <th>Name</th>
     <th>Position in Group</th>
     <th>Current Affiliation</th>
+  </tr>
+  <tr>
+    <td>Ly Le</td>
+    <td>Research Scientist (2020-2021)</td>
+    <td>Drug Discovery Scientist, Cyclica</td>
   </tr>
   <tr>
     <td>Anupam Chatterjee</td>
