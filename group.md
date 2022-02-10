@@ -202,7 +202,7 @@ html {
   <tr>
     <td>James McSally</td>
     <td>PhD (2014-2019)</td>
-    <td>Postdoctoral Fellow, University of Rochester</td>
+    <td>Senior Scientist at Redesign Science</td>
   </tr>
   <tr>
     <td><a href="http://gianmarc.com/">Gianmarc Grazioli</a></td>
