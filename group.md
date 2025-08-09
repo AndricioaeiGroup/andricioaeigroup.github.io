@@ -215,7 +215,7 @@ html {
   <tr>
     <td>Jason Deckman</td>
     <td>Post-Doc (2011-2014)</td>
-    <td>Sr. Engineer I, Software at Human Longevity, Inc</td>
+    <td>Lead Engineer, DeepCure </td>
   </tr>
   <tr>
     <td>Gavin Bascom</td>
