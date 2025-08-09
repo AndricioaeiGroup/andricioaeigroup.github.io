@@ -258,7 +258,7 @@ html {
     <td>Assistant Professor of Chemistry, University of Michigan, Ann Arbor</td>
   </tr>
   <tr>
-    <td><a href="https://scholar.google.com/citations?user=l2BhCiMAAAAJ&hl=tr"> Levent Sari</a>a</td>
+    <td><a href="https://scholar.google.com/citations?user=l2BhCiMAAAAJ&hl=tr">Levent Sari</a></td>
     <td>Post-Doc (2006-2008)</td>
     <td>Senior Research Scientist, University of Texas, Southwestern Medical Center</td>
   </tr>
