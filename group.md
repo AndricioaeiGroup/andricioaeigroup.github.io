@@ -250,7 +250,7 @@ html {
   <tr>
     <td><a href="http://www.chosun.ac.kr/user/indexSub.do?codyMenuSeq=218762&siteId=eng&menuUIType=sub&dum=dum&prfId=258416&page=2&command=view&prfSeq=364137&search=&column=">Eunae Kim</a></td>
     <td>Post-Doc (2008-2010)</td>
-    <td>Assistant Professor of Pharmacy, Chosun University, South Korea</td>
+    <td>Associate Professor of Pharmacy, Chosun University, South Korea</td>
   </tr>
   <tr>
     <td><a href="https://sites.lsa.umich.edu/frank-lab/">Aaron T. Frank</a></td>
@@ -285,7 +285,7 @@ html {
 <tr>
     <td><a href="https://www.researchgate.net/profile/Pu-Tian">Pu Tian</a></td>
     <td>Post-Doc (2003-2005)<br> University of Michigan</td>
-    <td>Professor, Jilin University, </td>
+    <td>Professor, Jilin University </td>
   </tr>
 </table> 
 
