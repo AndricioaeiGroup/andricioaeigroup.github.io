@@ -144,7 +144,7 @@ html {
   </div>
 </div>
 
-<h2>Undergraduate Student</h2>
+<h2>Undergraduate Students</h2>
 
 <div class="row">
   <div class="column">
