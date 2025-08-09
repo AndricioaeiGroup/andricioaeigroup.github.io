@@ -265,7 +265,7 @@ html {
   <tr>
     <td><a href="https://wereszczynskilab.org/">Jeff Wereszczynski</a></td>
     <td>PhD (2004-2008)</td>
-    <td>Associate Professor of Physics, Illinois Institute of Technology, Chicago</td>
+    <td>Professor of Physics and Biology, Illinois Institute of Technology, Chicago</td>
   </tr>
   <tr>
     <td><a href="https://profiles.ucdenver.edu/display/224998">Catherine Musselman</a></td>
