@@ -248,7 +248,7 @@ html {
     <td>Associate Professor of Physics, Indian Institute of Technology, Mandi, India</td>
   </tr>
   <tr>
-    <td><a href="http://www.chosun.ac.kr/user/indexSub.do?codyMenuSeq=218762&siteId=eng&menuUIType=sub&dum=dum&prfId=258416&page=2&command=view&prfSeq=364137&search=&column=">Eunae Kim</a></td>
+    <td><a href="https://www.researchgate.net/profile/Eunae-Kim">Eunae Kim</a></td>
     <td>Post-Doc (2008-2010)</td>
     <td>Associate Professor of Pharmacy, Chosun University, South Korea</td>
   </tr>
