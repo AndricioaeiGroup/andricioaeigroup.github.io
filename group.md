@@ -258,11 +258,6 @@ html {
     <td>Assistant Professor of Chemistry, University of Michigan, Ann Arbor</td>
   </tr>
   <tr>
-    <td><a href="https://scholar.google.com/citations?user=l2BhCiMAAAAJ&hl=tr">Levent Sari</a></td>
-    <td>Post-Doc (2006-2008)</td>
-    <td>Senior Research Scientist, University of Texas, Southwestern Medical Center</td>
-  </tr>
-  <tr>
     <td><a href="https://physics.missouri.edu/people/mills">K. Maria Mills</a></td>
     <td>PhD (2005-2010)<br> Joint with Mark M. Banaszak Holl</td>
     <td>Assistant Professor of Physics, University of Missouri, Columbia</td>
@@ -282,10 +277,15 @@ html {
     <td>MS (2003-2005)<br> University of Michigan</td>
     <td>Co-Founder & Chief scientist, Myst Labs</td>
   </tr>
+  <tr>
+    <td><a href="https://scholar.google.com/citations?user=l2BhCiMAAAAJ&hl=tr">Levent Sari</a></td>
+    <td>Post-Doc (2003-2005)</td>
+    <td>Senior Research Scientist, University of Texas, Southwestern Medical Center</td>
+  </tr>
 <tr>
     <td><a href="https://www.researchgate.net/profile/Pu-Tian">Pu Tian</a></td>
     <td>Post-Doc (2003-2005)<br> University of Michigan</td>
-    <td>Co-Founder & Chief scientist, Myst Labs</td>
+    <td>Professor, Jilin University, </td>
   </tr>
 </table> 
 
