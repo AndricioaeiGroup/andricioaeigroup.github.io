@@ -214,7 +214,7 @@ html {
   </tr>
   <tr>
     <td>Jason Deckman</td>
-    <td>Post Doc (2011-2014)</td>
+    <td>Post-Doc (2011-2014)</td>
     <td>Sr. Engineer I, Software at Human Longevity, Inc</td>
   </tr>
   <tr>
@@ -244,12 +244,12 @@ html {
   </tr>
   <tr>
     <td><a href="https://sites.google.com/site/prasanthpj/Home">Prasanth P  Jose</a></td>
-    <td>Post Doc (2008-2010)</td>
+    <td>Post-Doc (2008-2010)</td>
     <td>Assistant Professor of Physics, Indian Institute of Technology, Mandi, India</td>
   </tr>
   <tr>
     <td><a href="http://www.chosun.ac.kr/user/indexSub.do?codyMenuSeq=218762&siteId=eng&menuUIType=sub&dum=dum&prfId=258416&page=2&command=view&prfSeq=364137&search=&column=">Eunae Kim</a></td>
-    <td>Post Doc (2008-2010)</td>
+    <td>Post-Doc (2008-2010)</td>
     <td>Assistant Professor of Pharmacy, Chosun University, South Korea</td>
   </tr>
   <tr>
@@ -282,7 +282,11 @@ html {
     <td>MS (2003-2005)<br> University of Michigan</td>
     <td>Co-Founder & Chief scientist, Myst Labs</td>
   </tr>
-</table> 
+<tr>
+    <td><a href="https://www.researchgate.net/profile/Pu-Tian">Pu Tian</a></td>
+    <td>Post-Doc (2003-2005)<br> University of Michigan</td>
+    <td>Co-Founder & Chief scientist, Myst Labs</td>
+  </tr>
 </table> 
 
 </body>
