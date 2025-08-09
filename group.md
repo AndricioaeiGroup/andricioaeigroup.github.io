@@ -278,6 +278,12 @@ html {
     <td>Associate Professor of Biochemistry, University of Colorado, Anschutz Medical Campus</td>
   </tr>
 </table> 
+<tr>
+    <td><a href="https://profiles.ucdenver.edu/display/224998">Chenyue Xing</a></td>
+    <td>MS (2003-2005)<br> University of Michigan</td>
+    <td>Co-Founder & Chief scientist, Myst Labs</td>
+  </tr>
+</table> 
 
 </body>
 </html>
