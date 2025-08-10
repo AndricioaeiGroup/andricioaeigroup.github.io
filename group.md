@@ -195,7 +195,7 @@ html {
   <tr>
     <td>Anupam Chatterjee</td>
     <td>PhD (2014-2019)</td>
-    <td>-</td>
+    <td>Manager - Institutional Outreach, PrashantAdvait Foundation, Uttar Pradesh</td>
   </tr>
   <tr>
     <td>James McSally</td>
