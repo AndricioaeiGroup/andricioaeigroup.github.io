@@ -188,6 +188,11 @@ html {
     <th>Current Affiliation</th>
   </tr>
   <tr>
+    <td>Trevor Gokey</td>
+    <td>PhD (2019-2025)<br> Joint with Prof. David Mobley</td>
+    <td>Software Developer, Open Force Field  </td>
+  </tr>
+  <tr>
     <td>Dhiman Ray</td>
     <td>PhD (2018-2022)</td>
     <td>Assistant Professor, University of Oregon</td>
