@@ -188,6 +188,16 @@ html {
     <th>Current Affiliation</th>
   </tr>
   <tr>
+    <td>Dhiman Ray</td>
+    <td>PhD (2018-2022)</td>
+    <td>Assistant Professor, University of Oregon</td>
+  </tr>
+  <tr>
+    <td>Moises Ernesto Romero</td>
+    <td>PhD (2018-2022)<br> Joint with Prof. Jin Yu</td>
+    <td>Assistant Professor, Sierra College</td>
+  </tr>
+  <tr>
     <td>Ly Le</td>
     <td>Research Scientist (2020-2021)</td>
     <td>Drug Discovery Scientist, Cyclica</td>
@@ -234,7 +244,7 @@ html {
   </tr>
   <tr>
     <td>Nicholas K Preketes</td>
-    <td>PhD (2008-2013)<br> Joint with Shaul Mukamel</td>
+    <td>PhD (2008-2013)<br> Joint with Prof. Shaul Mukamel</td>
     <td>Director, Commercial Strategy & Analytics, Amgen</td>
   </tr>
   <tr>
