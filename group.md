@@ -147,10 +147,12 @@ html {
   <div class="column">
     <div class="card">
        <div class="container" style="width:100%">
+       <img src="/img/zack.jpeg" alt="Zack" style="width:30%"><!--height="300" width="300">-->
         <h3>Zachary Michael Chambers</h3>
         <p>BS: University of California Irvine (Class of 2026) (Theoretical and Computational Chemistry track)</p> 
         <p>Research Interest: Constant-pH simulations of RNA</p>
         <p>zchamber@uci.edu</p>
+        <p><a href="https://www.linkedin.com/in/zachary-chambers-619a95175/">Linkedin</a></p>
       </div>
     </div>
   </div>
