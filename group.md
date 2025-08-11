@@ -155,9 +155,10 @@ html {
     <div class="card">
        <div class="container" style="width:100%">
         <h3>Hailey Khouri</h3>
-        <p>BS: University of California Irvine (class of 2028) (Chemistry)</p> 
+        <p>BS: University of California Irvine (class of 2028) (Pharmaceutical Sciences)</p> 
         <p>Research Interest: Protein-ligand binding simulations</p>
         <p>hkhoury2@uci.edu</p>
+        <p><a href="https://www.linkedin.com/in/hailey-khoury-882533262/">Linkedin</a></p>
       </div>
     </div>
   </div>
