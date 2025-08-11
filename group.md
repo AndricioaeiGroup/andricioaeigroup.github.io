@@ -154,7 +154,7 @@ html {
   <div class="column">
     <div class="card">
        <div class="container" style="width:100%">
-        <h3>Hailey Khouri</h3>
+        <h3>Hailey Khoury</h3>
         <p>BS: University of California Irvine (class of 2028) (Pharmaceutical Sciences)</p> 
         <p>Research Interest: Protein-ligand binding simulations</p>
         <p>hkhoury2@uci.edu</p>
