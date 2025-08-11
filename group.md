@@ -76,7 +76,7 @@ html {
   <div class="column">
     <div class="card">
        <div class="container" style="width:100%">
-        <img src="/img/Ioan.jpg" alt="Ioan" style="width:25%"><!--height="200" width="200">-->
+        <img src="/img/Ioan.jpg" alt="Ioan" style="width:30%"><!--height="200" width="200">-->
         <h3>Ioan Andricioaei</h3>
         <p>andricio@uci.edu</p>
         <p><a href="https://www.faculty.uci.edu/profile.cfm?faculty_id=5491">Profile</a></p>
@@ -94,7 +94,7 @@ html {
   <div class="column">
     <div class="card">
       <div class="container" style="width:100%">
-      <img src="/img/xxx.jpg" alt="Shannon" style="width:25%"><!--height="200" width="200">-->
+      <img src="/img/xxx.jpg" alt="Shannon" style="width:30%"><!--height="200" width="200">-->
         <h3>Shannon McElhenney</h3>
         <p>(Joint with Prof. Jin Yu)</p>
         <p>Research Interest: MD Simulations of RNA polymerases. Master equations / Markov state models.
@@ -107,7 +107,7 @@ html {
   <div class="column">
     <div class="card">
       <div class="container" style="width:100%">
-      <img src="/img/xxx.JPG" alt="Tim" style="width:25%"><!--height="200" width="200">-->
+      <img src="/img/xxx.JPG" alt="Tim" style="width:30%"><!--height="200" width="200">-->
         <h3>Timothy Mai</h3>
         <p>Research Interest: Enhanced sampling methods development for kinetics, Allostery and relaxation in biomolecules.</p>
         <p>timotm2@uci.edu</p>
