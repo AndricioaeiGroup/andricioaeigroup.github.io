@@ -242,6 +242,12 @@ html {
     <td>PhD (2008-2014)</td>
     <td>Senior Scientist at Pfizer</td>
   </tr>
+<tr>
+    <td>Daun Jeong</td>
+    <td>Post-Doc (2012-2014)</td>
+    <td>Research Scientist at Samsung Research, Korea</td>
+  </tr>
+  <tr>
   <tr>
     <td><a href="https://sites.google.com/site/prasanthpj/Home">Prasanth P  Jose</a></td>
     <td>Post-Doc (2008-2010)</td>
