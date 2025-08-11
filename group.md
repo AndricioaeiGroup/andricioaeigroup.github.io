@@ -179,7 +179,7 @@ html {
   </div>
 </div>
 
-<h2>Group Alumni</h2>
+<h2>Group Alumni (former graduate students and postdocs)</h2>
 
 <table style="width:100%">
   <tr>
