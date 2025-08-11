@@ -69,7 +69,7 @@ html {
 <body>
 
 <img src="/img/group.jpg" alt="group" class="center" style="width:100%"> 
-
+<p>Group photo circa 2019</p>
 <h2>Principal Investigator</h2>
 
 <div class="row">
