@@ -107,11 +107,12 @@ html {
   <div class="column">
     <div class="card">
       <div class="container" style="width:100%">
-      <img src="/img/xxx.JPG" alt="Tim" style="width:30%"><!--height="200" width="200">-->
+      <img src="/img/tim_photo.jpg" alt="Tim" style="width:30%"><!--height="200" width="200">-->
         <h3>Timothy Mai</h3>
+        <p>BS, San Diego State University (2025)</p>
         <p>Research Interest: Enhanced sampling methods development for kinetics, Allostery and relaxation in biomolecules.</p>
         <p>timotm2@uci.edu</p>
-        <p>BS, San Diego State University (2025)</p>
+        <p><a href="https://www.linkedin.com/in/timothy-mai-496829260/">Linkedin</a></p>
       </div>
     </div>
   </div>
@@ -137,7 +138,8 @@ html {
         <h3>Paaras Ajit Shah</h3>
         <p>BS: University of California Irvine (class of 2026) (Theoretical and Computational Chemistry track)</p> 
         <p>Research Interest: Constant-pH simulations of RNA</p>
-        <p>paarass@@uci.edu</p>
+        <p>paarass@uci.edu</p>
+        <p><a href="https://www.linkedin.com/in/paaras-shah-93bb14221/">Linkedin</a></p>
       </div>
     </div>
   </div>
