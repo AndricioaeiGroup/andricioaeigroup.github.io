@@ -94,7 +94,7 @@ html {
   <div class="column">
     <div class="card">
       <div class="container" style="width:100%">
-      <img src="/img/xxx.jpg" alt="Shannon" style="width:50%"><!--height="200" width="200">-->
+      <img src="/img/xxx.jpg" alt="Shannon" style="width:20%"><!--height="200" width="200">-->
         <h3>Shannon McElhenney</h3>
         <p>(Joint with Prof. Jin Yu)</p>
         <p>Research Interest: MD Simulations of RNA polymerases. Master equations / Markov state models.
@@ -107,7 +107,7 @@ html {
   <div class="column">
     <div class="card">
       <div class="container" style="width:100%">
-      <img src="/img/xxx.JPG" alt="Timothy" style="width:50%"><!--height="200" width="200">-->
+      <img src="/img/xxx.JPG" alt="Timothy" style="width:20%"><!--height="200" width="200">-->
         <h3>Timothy Mai</h3>
         <p>Research Interest: Enhanced sampling methods development for kinetics, Allostery and relaxation in biomolecules.</p>
         <p>timotm2@uci.edu</p>
@@ -115,24 +115,13 @@ html {
       </div>
     </div>
   </div>
+ 
   <div class="column">
     <div class="card">
       <div class="container" style="width:100%">
-      <img src="/img/Trevor.jpg" alt="Trevor" style="width:50%"><!--height="300" width="300">-->
-        <h3>Trevor Gokey</h3>
-        <p>(Joint with Prof. David Mobley)</p>
-        <p>Research Interest: TBD.</p>
-        <p>tgokey@uci.edu</p>
-        <p><a href="https://www.linkedin.com/in/trevor-gokey-a8b06814/">Linkedin</a></p>
-      </div>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <div class="container" style="width:100%">
-      <img src="/img/Praveen.jpeg" alt="Praveen" style="width:50%"><!--height="300" width="300">-->
+      <img src="/img/Praveen.jpeg" alt="Praveen" style="width:30%"><!--height="300" width="300">-->
         <h3>Praveen Ranganath Prabhakar</h3>
-        <p>Research Interest: TBD.</p>
+        <p>Research Interest: Enhanced sampling methodology. Machine learning methods for collective variables. RNA dynamics. Membrane simulations</p>
         <p>prprabha@uci.edu</p>
         <p><a href="https://in.linkedin.com/in/praveen-ranganath-561240128">Linkedin</a></p>
       </div>
