@@ -171,7 +171,7 @@ html {
     <div class="card">
        <div class="container" style="width:100%">
         <h3>Hailey Khouri</h3>
-        <p>BS: University of California Irvine (2023) (Chemistry)</p> 
+        <p>BS: University of California Irvine (class of 2028) (Chemistry)</p> 
         <p>Research Interest: Protein-ligand binding simulations</p>
         <p>hkhoury2@uci.edu</p>
       </div>
