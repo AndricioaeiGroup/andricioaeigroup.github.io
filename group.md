@@ -190,7 +190,7 @@ html {
   <tr>
     <td>Ly Le</td>
     <td>Research Scientist (2020-2021)</td>
-    <td>Drug Discovery Scientist, Cyclica</td>
+    <td>Principal Research Scientist, Sandbox AQ</td>
   </tr>
   <tr>
     <td>Anupam Chatterjee</td>
@@ -200,7 +200,7 @@ html {
   <tr>
     <td>James McSally</td>
     <td>PhD (2014-2019)</td>
-    <td>Senior Scientist at Redesign Science</td>
+    <td>Computational Chemist at Variational AI</td>
   </tr>
   <tr>
     <td><a href="http://gianmarc.com/">Gianmarc Grazioli</a></td>
