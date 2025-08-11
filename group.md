@@ -135,8 +135,9 @@ html {
   <div class="column">
     <div class="card">
        <div class="container" style="width:100%">
+       <img src="/img/Paaras.JPG" alt="Paaras" style="width:30%"><!--height="300" width="300">-->
         <h3>Paaras Ajit Shah</h3>
-        <p>BS: University of California Irvine (class of 2026) (Theoretical and Computational Chemistry track)</p> 
+        <p>BS: University of California Irvine (Class of 2026) (Theoretical and Computational Chemistry track)</p> 
         <p>Research Interest: Constant-pH simulations of RNA</p>
         <p>paarass@uci.edu</p>
         <p><a href="https://www.linkedin.com/in/paaras-shah-93bb14221/">Linkedin</a></p>
@@ -147,7 +148,7 @@ html {
     <div class="card">
        <div class="container" style="width:100%">
         <h3>Zachary Michael Chambers</h3>
-        <p>BS: University of California Irvine (class of 2026) (Theoretical and Computational Chemistry track)</p> 
+        <p>BS: University of California Irvine (Class of 2026) (Theoretical and Computational Chemistry track)</p> 
         <p>Research Interest: Constant-pH simulations of RNA</p>
         <p>zchamber@uci.edu</p>
       </div>
@@ -156,8 +157,9 @@ html {
   <div class="column">
     <div class="card">
        <div class="container" style="width:100%">
+       <img src="/img/Hailey.jpeg" alt="Hailey" style="width:30%"><!--height="300" width="300">-->
         <h3>Hailey Khoury</h3>
-        <p>BS: University of California Irvine (class of 2028) (Pharmaceutical Sciences)</p> 
+        <p>BS: University of California Irvine (Class of 2028) (Pharmaceutical Sciences)</p> 
         <p>Research Interest: Protein-ligand binding simulations</p>
         <p>hkhoury2@uci.edu</p>
         <p><a href="https://www.linkedin.com/in/hailey-khoury-882533262/">Linkedin</a></p>
@@ -212,7 +214,7 @@ html {
   <tr>
     <td>Emel Ficici</td>
     <td>PhD (2010-2015)</td>
-    <td>Research Scientist at Pfizer</td>
+    <td>Senior Scientist at Nurix Therapeutics</td>
   </tr>
   <tr>
     <td>Jason Deckman</td>
@@ -244,12 +246,11 @@ html {
     <td>PhD (2008-2014)</td>
     <td>Senior Scientist at Pfizer</td>
   </tr>
-<tr>
+  <tr>
     <td>Daun Jeong</td>
     <td>Post-Doc (2012-2014)</td>
     <td>Research Scientist at Samsung Research, Korea</td>
   </tr>
-  <tr>
   <tr>
     <td><a href="https://sites.google.com/site/prasanthpj/Home">Prasanth P  Jose</a></td>
     <td>Post-Doc (2008-2010)</td>
@@ -295,7 +296,7 @@ html {
     <td>Post-Doc (2003-2005)</td>
     <td>Senior Research Scientist, University of Texas, Southwestern Medical Center</td>
   </tr>
-<tr>
+  <tr>
     <td><a href="https://www.researchgate.net/profile/Pu-Tian">Pu Tian</a></td>
     <td>Post-Doc (2003-2005)<br> University of Michigan</td>
     <td>Professor, Jilin University </td>
