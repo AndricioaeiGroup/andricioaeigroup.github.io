@@ -150,30 +150,30 @@ html {
   <div class="column">
     <div class="card">
        <div class="container" style="width:100%">
-        <h3>Sharon Emily Stone</h3>
-        <p>BS: University of California Irvine (2021) (Chemistry)</p> 
-        <p>Research Interest: Hoogsteen Base-Pairing in DNA</p>
-        <p>sharones@uci.edu</p>
+        <h3>Paaras Ajit Shah</h3>
+        <p>BS: University of California Irvine (class of 2026) (Theoretical and Computational Chemistry track)</p> 
+        <p>Research Interest: Constant-pH simulations of RNA</p>
+        <p>paarass@@uci.edu</p>
       </div>
     </div>
   </div>
   <div class="column">
     <div class="card">
        <div class="container" style="width:100%">
-        <h3>Riley Nicolas Quijano</h3>
-        <p>BS: University of California Irvine (2022) (Chemistry)</p> 
-        <p>Research Interest: Simulation of SARS-CoV-2 proteins</p>
-        <p>rnquijan@uci.edu</p>
+        <h3>Zachary Michael Chambers</h3>
+        <p>BS: University of California Irvine (class of 2026) (Theoretical and Computational Chemistry track)</p> 
+        <p>Research Interest: Constant-pH simulations of RNA</p>
+        <p>zchamber@uci.edu</p>
       </div>
     </div>
   </div>
   <div class="column">
     <div class="card">
        <div class="container" style="width:100%">
-        <h3>Rodrigo Andre Lozano</h3>
+        <h3>Hailey Khouri</h3>
         <p>BS: University of California Irvine (2023) (Chemistry)</p> 
-        <p>Research Interest: Protein-Ligand simulations</p>
-        <p>ralozano@uci.edu</p>
+        <p>Research Interest: Protein-ligand binding simulations</p>
+        <p>hkhoury2@uci.edu</p>
       </div>
     </div>
   </div>
