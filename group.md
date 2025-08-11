@@ -94,7 +94,7 @@ html {
   <div class="column">
     <div class="card">
       <div class="container" style="width:100%">
-      <img src="/img/xxx.jpg" alt="Shannon" style="width:30%"><!--height="200" width="200">-->
+      <img src="/img/Shannon.jpeg" alt="Shannon" style="width:30%"><!--height="200" width="200">-->
         <h3>Shannon McElhenney</h3>
         <p>(Joint with Prof. Jin Yu)</p>
         <p>Research Interest: MD Simulations of RNA polymerases. Master equations / Markov state models. Data science.
