@@ -107,7 +107,7 @@ html {
   <div class="column">
     <div class="card">
       <div class="container" style="width:100%">
-      <img src="/img/xxx.JPG" alt="Timothy" style="width:20%"><!--height="200" width="200">-->
+      <img src="/img/xxx.JPG" alt="Tim" style="width:20%"><!--height="200" width="200">-->
         <h3>Timothy Mai</h3>
         <p>Research Interest: Enhanced sampling methods development for kinetics, Allostery and relaxation in biomolecules.</p>
         <p>timotm2@uci.edu</p>
@@ -115,7 +115,6 @@ html {
       </div>
     </div>
   </div>
- 
   <div class="column">
     <div class="card">
       <div class="container" style="width:100%">
