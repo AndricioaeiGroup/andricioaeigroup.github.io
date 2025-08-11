@@ -279,6 +279,11 @@ html {
     <td>Associate Professor of Biochemistry, University of Colorado, Anschutz Medical Campus</td>
   </tr>
   <tr>
+    <td>Faten Yassin</td>
+    <td>Post-Doc (2005-2007)<br> University of Michigan</td>
+    <td> Professor at Hobart and William Smith College</td>
+  </tr>
+  <tr>
     <td><a href="https://www.crunchbase.com/person/chenyue-xing">Chenyue Xing</a></td>
     <td>MS (2003-2005)<br> University of Michigan</td>
     <td>Co-Founder & Chief scientist, Myst Labs</td>
