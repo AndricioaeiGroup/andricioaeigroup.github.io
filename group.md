@@ -94,13 +94,13 @@ html {
   <div class="column">
     <div class="card">
       <div class="container" style="width:100%">
-      <img src="/img/Moises.jpg" alt="Moises" style="width:50%"><!--height="300" width="300">-->
-        <h3>Moises Romero</h3>
-        <p>(Joint with Dr. Jin Yu)</p>
-        <p>Research Interest: Elastic network models of contractile tails. MD Simulations of biological systems.
+      <img src="/img/xxx.jpg" alt="Moises" style="width:50%"><!--height="300" width="300">-->
+        <h3>Shannon McElhenney</h3>
+        <p>(Joint with Prof. Jin Yu)</p>
+        <p>Research Interest: MD Simulations of RNA polymerases. Master equations / Markov state models.
         Development of enhanced sampling methods.</p>
-        <p>moiseser@uci.edu</p>
-        <p><a href="https://www.linkedin.com/in/moises-romero-b76191189/">Linkedin</a></p>
+        <p>smcelhen@uci.edu</p>
+        !<p><a href="https://www.linkedin.com/in/moises-romero-b76191189/">Linkedin</a></p>
       </div>
     </div>
   </div>
