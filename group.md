@@ -76,7 +76,7 @@ html {
   <div class="column">
     <div class="card">
        <div class="container" style="width:100%">
-        <img src="/img/Ioan.jpg" alt="Ioan" style="width:50%"><!--height="300" width="300">-->
+        <img src="/img/Ioan.jpg" alt="Ioan" style="width:50%"><!--height="200" width="200">-->
         <h3>Ioan Andricioaei</h3>
         <p>andricio@uci.edu</p>
         <p><a href="https://www.faculty.uci.edu/profile.cfm?faculty_id=5491">Profile</a></p>
@@ -94,7 +94,7 @@ html {
   <div class="column">
     <div class="card">
       <div class="container" style="width:100%">
-      <img src="/img/xxx.jpg" alt="Moises" style="width:50%"><!--height="300" width="300">-->
+      <img src="/img/xxx.jpg" alt="Shannon" style="width:50%"><!--height="200" width="200">-->
         <h3>Shannon McElhenney</h3>
         <p>(Joint with Prof. Jin Yu)</p>
         <p>Research Interest: MD Simulations of RNA polymerases. Master equations / Markov state models.
@@ -107,15 +107,11 @@ html {
   <div class="column">
     <div class="card">
       <div class="container" style="width:100%">
-      <img src="/img/Dhiman.JPG" alt="Dhiman" style="width:50%"><!--height="300" width="300">-->
-        <h3>Dhiman Ray</h3>
-        <p>Research Interest: Enhanced sampling method development, Simulation of nucleic acids.</p>
-        <p>dray1@uci.edu</p>
-        <p>Integrated BS-MS, Indian Institute of Science Education and Research, Kolkata, India (2018)</p>
-        <p><a href="https://www.linkedin.com/in/dhiman-ray-95790baa/">Linkedin</a></p>
-        <p><a href="https://scholar.google.com/citations?user=ILWljWoAAAAJ&hl=en&oi=ao">Google Scholar</a></p>
-        <p><a href="https://sites.google.com/view/dhiman/home">Personal Website</a></p>
-        <p><a href="https://drive.google.com/open?id=1KB4Tk8J0Hp2eFPdaGGVUYyUmlWkt1mZA">CV</a></p>
+      <img src="/img/xxx.JPG" alt="Timothy" style="width:50%"><!--height="200" width="200">-->
+        <h3>Timothy Mai</h3>
+        <p>Research Interest: Enhanced sampling methods development for kinetics, Allostery and relaxation in biomolecules.</p>
+        <p>timotm2@uci.edu</p>
+        <p>BS, San Diego State University (2025)</p>
       </div>
     </div>
   </div>
