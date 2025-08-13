@@ -237,7 +237,7 @@ html {
   <tr>
     <td>Gavin Bascom</td>
     <td>PhD (2010-2014)</td>
-    <td>Methodology Scientist at Redesign Science </td>
+    <td>Senior Scientist at Terray Therapeutics </td>
   </tr>
   <tr>
     <td>Ahmet Mentes</td>
