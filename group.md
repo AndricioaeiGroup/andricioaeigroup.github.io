@@ -168,6 +168,17 @@ html {
       </div>
     </div>
   </div>
+  <div class="column">
+    <div class="card">
+       <div class="container" style="width:100%">
+       <img src="/img/cynthia.jpg" alt="Cynthia" style="width:30%"><!--height="300" width="300">-->
+        <h3>Cynthia Zhang</h3>
+        <p>BS: University of California Irvine (Class of 2028) (Biological Sciences)</p> 
+        <p>Research Interest: Bacteriophage simulations</p>
+        <p>cynthiz6@uci.edu</p>
+      </div>
+    </div>
+  </div>
 </div>
 
 <h2>Group Alumni </h2>
