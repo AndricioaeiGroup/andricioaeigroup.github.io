@@ -227,7 +227,7 @@ html {
   <tr>
     <td>Emel Ficici</td>
     <td>PhD (2010-2015)</td>
-    <td>Computational Chemist, Drug Design, Nurix Therapeutics</td>
+    <td>Senior Scientist, Computational Chemistry and Drug Design, Nurix Therapeutics</td>
   </tr>
   <tr>
     <td>Jason Deckman</td>
